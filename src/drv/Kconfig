@@ -1,0 +1,5 @@
+config SOFTATHOME_DOWNLOADERAPI
+	tristate "downloader API kernel driver"
+	default m
+	help
+		This is downloader API kernel driver code
