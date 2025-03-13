@@ -569,3 +569,6 @@ typedef struct
 #define HNSA_DOWNLOAD_BL_SET_COUNTRY _IOWR(HNSA_DOWNLOAD_MAGIC_NUMBER, 19, hnsa_download_bl_country_t)
 #define HNSA_DOWNLOAD_SET_BOOT_COUNTER _IOWR(HNSA_DOWNLOAD_MAGIC_NUMBER, 20, uint32_t)
 #endif /*_HNSA_DOWNLOAD_H_*/
+
+
+//insert test
